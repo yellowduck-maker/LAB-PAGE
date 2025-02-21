@@ -8,7 +8,9 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 北京市海淀区颐和园路5号(5 yiheyuan road, haidian district, Beijing)
+
 北京大学 (Peking University)
+
 100871
 
 {%
