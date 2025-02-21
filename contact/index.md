@@ -28,8 +28,8 @@ nav:
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://sai.pku.edu.cn/info/1362/2249.htm"
+  tooltip="office address"
+  link="北京大学理科2号楼2228室(Room 2228, Science Building #2)"
 %}
 
 {% include section.html %}
