@@ -7,11 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-北京市海淀区颐和园路5号(5 yiheyuan road, haidian district, Beijing)
-
-北京大学 (Peking University)
-
-100871
+北京市海淀区颐和园路5号(5 yiheyuan road, haidian district, Beijing)\\
+北京大学 (Peking University), 100871\\
+北京大学理科2号楼2228室(Room 2228, Science Building #2)
 
 {%
   include button.html
@@ -27,9 +25,9 @@ nav:
 %}
 {%
   include button.html
-  type="address"
-  tooltip="office address"
-  link="北京大学理科2号楼2228室(Room 2228, Science Building #2)"
+  type="personal page"
+  tooltip="personal page"
+  link="https://sai.pku.edu.cn/info/1362/2249.htm"
 %}
 
 {% include section.html %}
