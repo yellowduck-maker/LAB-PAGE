@@ -16,20 +16,20 @@ nav:
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="janechenjing@pku.edu.cn"
+  link="janechenjing@pku.edu.cn"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="86-10-62756824"
+  link="86-10-62756824"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://sai.pku.edu.cn/info/1362/2249.htm"
 %}
 
 {% include section.html %}
