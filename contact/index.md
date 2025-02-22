@@ -37,7 +37,7 @@ nav:
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="北京大学机器感知与智能教育部重点实验室"
 %}
 
 {% endcapture %}
@@ -47,7 +47,7 @@ nav:
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption="北京大学智能学院"
 %}
 
 {% endcapture %}
