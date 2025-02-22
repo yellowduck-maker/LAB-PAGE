@@ -26,8 +26,7 @@ nav:
 {%
   include button.html
   type="personal page"
-  text="page"
-  tooltip="personal page"
+  text="personal page"
   link="https://sai.pku.edu.cn/info/1362/2249.htm"
 %}
 
