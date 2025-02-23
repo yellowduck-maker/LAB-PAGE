@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Team
 nav:
   order: 3
   tooltip: Team
