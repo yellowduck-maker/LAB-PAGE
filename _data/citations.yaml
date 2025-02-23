@@ -245,3 +245,12 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: https://arxiv.org/pdf/2401.04964
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://arxiv.org/pdf/2401.04964
+  image: https://github.com/NoethRin/PKU_SHRC_CJLAB/blob/main/images/wbicasspw.png
+  plugin: sources.py
+  file: sources.yaml
