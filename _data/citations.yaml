@@ -245,12 +245,22 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/pdf/2401.04964
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://arxiv.org/pdf/2401.04964
+- id: arxiv:2401.04964
+  title: Self-supervised speech representation and contextual text embedding for match-mismatch
+    classification with EEG recording
+  authors:
+  - Bo Wang
+  - Xiran Xu
+  - Zechen Zhang
+  - Haolin Zhu
+  - YuJie Yan
+  - Xihong Wu
+  - Jing Chen
+  publisher: arXiv
+  date: '2024-02-02'
+  link: https://arxiv.org/abs/2401.04964
+  type: paper
+  description: ICASSP
   image: https://github.com/NoethRin/PKU_SHRC_CJLAB/blob/main/images/wbicasspw.png
   plugin: sources.py
   file: sources.yaml
