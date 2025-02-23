@@ -9,6 +9,8 @@ nav:
 
 博士生 (PhD students):
 
+     AAA
+
      牛亚东 (Niu,Y.D.)
 
      王波（Wang, B.)
