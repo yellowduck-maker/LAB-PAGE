@@ -1,7 +1,9 @@
 ---
+title: Research
+nav:
+  order: 1
+  tooltip: Team
 ---
-
-# {% include icon.html icon="fa-solid fa-users" %}Team
 
 博士生 (PhD students):
 
@@ -56,6 +58,8 @@
      陈高峰  (Chen,G.F.)
 
      钱应  (Qian,Y.)
+
+{% include section.html %}
 
      伏臻 (Fu,Z.)
 
