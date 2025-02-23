@@ -1,9 +1,7 @@
 ---
-title: Team
-nav:
-  order: 3
-  tooltip: About our team
 ---
+
+# TEAM
 
 博士生 (PhD students):
 
