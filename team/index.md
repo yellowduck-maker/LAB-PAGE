@@ -5,6 +5,8 @@ nav:
   tooltip: Team
 ---
 
+# {% include icon.html icon="fa-solid fa-users" %}Team
+
 博士生 (PhD students):
 
 ​     牛亚东 (Niu,Y.D.)
