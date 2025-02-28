@@ -29,7 +29,7 @@ nav:
 
 ​     张泽辰（Zhang, Z.C.)
 
-​     孙晨烨（Sun, C.Y.)
+​     孙晨晔（Sun, C.Y.)
 
 ​     朱昊麟（Zhu, H.L.)
 
