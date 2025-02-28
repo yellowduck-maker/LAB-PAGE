@@ -5,5 +5,5 @@
 
   # NoethRin's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[yellowduck-maker.github.io/LAB-PAGE](https://yellowduck-maker.github.io/LAB-PAGE)** 🚀
 
